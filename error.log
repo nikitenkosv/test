@@ -1,0 +1,7 @@
+[Mon Jul 25 19:47:59.396407 2016] [:error] [pid 4281] [client 127.0.0.1:34972] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING) in /home/jura/www.sites/test/index.php on line 16
+[Mon Jul 25 20:06:08.939356 2016] [:error] [pid 4290] [client 127.0.0.1:34994] PHP Parse error:  syntax error, unexpected 'Class' (T_CLASS), expecting identifier (T_STRING) in /home/jura/www.sites/test/index.php on line 2
+[Mon Jul 25 20:06:29.851200 2016] [:error] [pid 4281] [client 127.0.0.1:34996] PHP Parse error:  syntax error, unexpected 'Class' (T_CLASS), expecting identifier (T_STRING) in /home/jura/www.sites/test/index.php on line 2
+[Mon Jul 25 20:06:34.284521 2016] [:error] [pid 4281] [client 127.0.0.1:34996] PHP Parse error:  syntax error, unexpected 'Class' (T_CLASS), expecting identifier (T_STRING) in /home/jura/www.sites/test/index.php on line 2
+[Mon Jul 25 20:28:53.896991 2016] [:error] [pid 4283] [client 127.0.0.1:35040] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/jura/www.sites/test/index.php on line 26
+[Mon Jul 25 20:30:41.088019 2016] [:error] [pid 4284] [client 127.0.0.1:35044] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/jura/www.sites/test/index.php on line 26
+[Mon Jul 25 20:30:43.623874 2016] [:error] [pid 4284] [client 127.0.0.1:35044] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/jura/www.sites/test/index.php on line 26
