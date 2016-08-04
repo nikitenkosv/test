@@ -5,3 +5,13 @@
 [Mon Jul 25 20:28:53.896991 2016] [:error] [pid 4283] [client 127.0.0.1:35040] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/jura/www.sites/test/index.php on line 26
 [Mon Jul 25 20:30:41.088019 2016] [:error] [pid 4284] [client 127.0.0.1:35044] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/jura/www.sites/test/index.php on line 26
 [Mon Jul 25 20:30:43.623874 2016] [:error] [pid 4284] [client 127.0.0.1:35044] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/jura/www.sites/test/index.php on line 26
+[Thu Aug 04 19:28:09.113984 2016] [:error] [pid 4032] [client 127.0.0.1:41244] PHP Notice:  Array to string conversion in /home/sergey/sites/test/handler.php on line 2, referer: http://test/
+[Thu Aug 04 19:48:49.941331 2016] [:error] [pid 4035] [client 127.0.0.1:41286] PHP Notice:  Undefined index: texik in /home/sergey/sites/test/handler.php on line 4, referer: http://test/
+[Thu Aug 04 19:48:56.593125 2016] [:error] [pid 4108] [client 127.0.0.1:41288] PHP Notice:  Undefined index: texik in /home/sergey/sites/test/handler.php on line 4, referer: http://test/
+[Thu Aug 04 20:10:05.273081 2016] [:error] [pid 4031] [client 127.0.0.1:41354] PHP Parse error:  syntax error, unexpected '$_GET' (T_VARIABLE), expecting ',' or ';' in /home/sergey/sites/test/handler.php on line 8, referer: http://test/
+[Thu Aug 04 20:12:07.652928 2016] [:error] [pid 4034] [client 127.0.0.1:41360] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/sergey/sites/test/handler.php on line 8, referer: http://test/
+[Thu Aug 04 20:12:33.342175 2016] [:error] [pid 4035] [client 127.0.0.1:41362] PHP Parse error:  syntax error, unexpected 'first' (T_STRING), expecting ',' or ';' in /home/sergey/sites/test/handler.php on line 8, referer: http://test/
+[Thu Aug 04 20:19:16.644976 2016] [:error] [pid 4034] [client 127.0.0.1:41372] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/sergey/sites/test/handler.php on line 10, referer: http://test/
+[Thu Aug 04 20:25:31.894649 2016] [:error] [pid 4034] [client 127.0.0.1:41384] PHP Notice:  Undefined index: answer in /home/sergey/sites/test/index.php on line 23
+[Thu Aug 04 20:26:07.029744 2016] [:error] [pid 4108] [client 127.0.0.1:41388] PHP Notice:  Undefined index: answer in /home/sergey/sites/test/index.php on line 23, referer: http://test/index.php?first=6&second=8&answer=plus
+[Thu Aug 04 20:28:18.280502 2016] [:error] [pid 4033] [client 127.0.0.1:41394] PHP Notice:  Undefined index: answer in /home/sergey/sites/test/index.php on line 23, referer: http://test/index.php?first=6&second=7&answer=plus
